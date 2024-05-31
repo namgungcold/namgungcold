@@ -72,4 +72,4 @@
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
 
 ![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungcold&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgungcold&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
