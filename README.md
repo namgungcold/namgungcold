@@ -21,6 +21,7 @@
 
 <details>
   <summary><h2>🏫교내활동 및 수상경력</h2></summary>
+    
 ## 2019
 - 학술동아리 'Multiplex' 부원
 - 학술동아리 'Multiplex' 하계 Java 멘토링 멘티 참여
@@ -53,7 +54,9 @@
 - 'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
 </details>
 
-# 🏆교외활동 및 수상경력
+<details>
+  <summary><h2>🏆교외활동 및 수상경력</h2></summary>
+    
 ## 2020
 - 2020.03.24 ~ 2021.09.29 7사단 3여단 1대대 보병
 
@@ -68,8 +71,11 @@
 ## 2024
 - 프롬프트/LLM부트캠프 4위
 - kaggle에 도전하기
+</details>
 
-## 👨‍💻사용가능한 기술스택
+<details>
+  <summary><h2>👨‍💻사용가능한 기술스택</h2></summary>
+    
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
@@ -81,6 +87,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </p>
+</details>
 
 ## 📖주요 수강과목
 - 인공지능
