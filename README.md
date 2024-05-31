@@ -14,45 +14,45 @@
 - 축구동아리 'Defy' 부원
 - 축구동아리 'Defy' 소프트웨어융합대학 체육대회 축구 준우승🥈
    
-##2022
--제 4대 빅데이터 학생회 'Ra-On' 대외부장
--학술동아리 'Multiplex' 회장
--학술동아리 'Multiplex' 1학기 Python 멘토링 멘티 참여
--학술동아리 'Multiplex' 하계 AI 멘토링 멘티 참여
--학술동아리 'Multiplex' 소프트웨어융합대학 체육대회 풋살 준우승🥈
--SW중심대학사업단 SW Week [기초 대회(완내스 파이썬)] 참여
--교내 학술제 - 서공제 'Multiplex' 본선 진출
--2022년도 1학기 학기우등 (4.24)
+## 2022
+- 제 4대 빅데이터 학생회 'Ra-On' 대외부장
+- 학술동아리 'Multiplex' 회장
+- 학술동아리 'Multiplex' 1학기 Python 멘토링 멘티 참여
+- 학술동아리 'Multiplex' 하계 AI 멘토링 멘티 참여
+- 학술동아리 'Multiplex' 소프트웨어융합대학 체육대회 풋살 준우승🥈
+- SW중심대학사업단 SW Week [기초 대회(완내스 파이썬)] 참여
+- 교내 학술제 - 서공제 'Multiplex' 본선 진출
+- 2022년도 1학기 학기우등 (4.24)
 
-##2023
--제 5대 빅데이터 학생회 'Re-turn' 학회장
--학술동아리 'C.愛.랑' 하계 sw워크샵 참여
--학술동아리 'C.愛.랑' - sheild 팀 멘토링 참여
--SW중심대학사업단 SW Week [한림 AI 경진대회] 참여
--SW중심대학사업단 SW Week [SW Coding Festival] 참여
--Topcit 제 19회 정기평가
--Topcit 제 20회 정기평가
+## 2023
+- 제 5대 빅데이터 학생회 'Re-turn' 학회장
+- 학술동아리 'C.愛.랑' 하계 sw워크샵 참여
+- 학술동아리 'C.愛.랑' - sheild 팀 멘토링 참여
+- SW중심대학사업단 SW Week [한림 AI 경진대회] 참여
+- SW중심대학사업단 SW Week [SW Coding Festival] 참여
+- Topcit 제 19회 정기평가
+- Topcit 제 20회 정기평가
 
-##2024
--학술동아리 'Multiplex' 부회장
--Link-3.0 캡스톤 경진대회 참여
--'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
+## 2024
+- 학술동아리 'Multiplex' 부회장
+- Link-3.0 캡스톤 경진대회 참여
+- 'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
 
-#🖊교외활동 및 수상경력
-##2020
--2020.03.24 ~ 2021.09.29 7사단 3여단 1대대 보병
+# 🖊교외활동 및 수상경력
+## 2020
+- 2020.03.24 ~ 2021.09.29 7사단 3여단 1대대 보병
 
-##2022
--LG aimers 1기 수료
--SW AI 공동경진대회 장려상🥉
+## 2022
+- LG aimers 1기 수료
+- SW AI 공동경진대회 장려상🥉
 
-##2023
--LG aimers 3기 수료
--2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 참여
+## 2023
+- LG aimers 3기 수료
+- 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 참여
 
-##2024
--프롬프트/LLM부트캠프 4위
--kaggle에 도전하기
+## 2024
+- 프롬프트/LLM부트캠프 4위
+- kaggle에 도전하기
 
 ## 사용가능한 기술스택
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
@@ -70,6 +70,6 @@
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgungcold&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungcold&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
