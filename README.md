@@ -14,6 +14,7 @@
   - 전공 : 빅데이터 전공 <br>
   - 부전공 : 컨텐츠 IT 전공 <br>
 - **Email** : cksdl816@naver.com
+- **GitHub_Adress** : https://github.com/namgungcold
 
 
 # 🖊교내활동 및 수상경력
