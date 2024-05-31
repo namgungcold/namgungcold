@@ -55,6 +55,7 @@
 - kaggle에 도전하기
 
 ## 사용가능한 기술스택
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
@@ -64,7 +65,7 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-
+</p>
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
