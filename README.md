@@ -69,7 +69,5 @@
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungcold&show_icons=true&theme=transparent)
 
-</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungcold&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
