@@ -1,16 +1,38 @@
-## Hi there 👋
+## 🧑‍🎓인적&nbsp;사항
+- **이름** : 남궁 찬 <br>
+- **소속** : <br>
+  - 전공 : 빅데이터 <br>
+  - 부전공 : 컨텐츠 IT <br>
+- **Email** : cksdl816@naver.com
 
-<!--
-**namgungcold/namgungcold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖊교내활동
+- **2019~ 학술동아리 <멀티플렉스> **<br>
+  2019: 멀티플렉스 부원<br>
+    - 2학기 JAVA 멘토링 교육 참여<br>     
+  2022: 멀티플렉스 회장<br>
+    - 2022 1학기 파이썬 멘토링 교육 참여
+  2023: 멀티플렉스 부원
+  2024: 멀티플렉스 부회장
+   
+- **2019~ 축구동아리 <디파이> **
+  2019: 디파이 부원
+    - 1학기 소프트웨어융합대학 체육대회 준우승
+  2022: 디파이 부원
+  2023: 디파이 부원 
+- **2022 빅데이터 학생회<라온> **
+  - 2022 대외국 부장
+    
+- **2023 빅데이터 학생회<리턴> **
+  - 2023 학생회장
+
+## 사용가능언어
+- JAVA/JAVA Script
+- C Programing
+- PYTHON
+- R
+  
+## 2022년 활동계획
+- 정보보안 관련 공부하기
+- 딥러닝 기초 공부/ 프로젝트 참여해보기
