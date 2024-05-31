@@ -19,7 +19,8 @@
 - **GitHub_Adress** : https://github.com/namgungcold
 
 
-# 🏫교내활동 및 수상경력
+<details>
+  <summary><h2>🏫교내활동 및 수상경력</h2></summary>
 ## 2019
 - 학술동아리 'Multiplex' 부원
 - 학술동아리 'Multiplex' 하계 Java 멘토링 멘티 참여
@@ -50,6 +51,7 @@
 - 학술동아리 'Multiplex' 부회장
 - Link-3.0 캡스톤 경진대회 참여
 - 'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
+</details>
 
 # 🏆교외활동 및 수상경력
 ## 2020
