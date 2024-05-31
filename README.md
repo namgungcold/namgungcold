@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=c582c9&height=180&text=Hello!!👋👋%20%20I`m%20Chan&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=c582c9&height=180&text=Hello!!👋%20%20I`m%20Chan&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요😀 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발을 하고자 하는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있으며 취준생입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발을 하고자 하는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있는 취준생입니다. </div> 
     </div>
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamgungcold&count_bg=%23BA55BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)   
