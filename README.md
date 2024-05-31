@@ -9,6 +9,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamgungcold&count_bg=%23BA55BC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)   
 ## 🧑‍🎓인적&nbsp;사항
 - **이름** : 남궁 찬 / NamGung Chan <br>
+- **생년월일** : 2000.08.16<br>
 - **소속** : <br>
   - 대학 : 한림대학교 정보과학대학 소프트웨어학부<br>
   - 전공 : 빅데이터 전공 <br>
@@ -28,7 +29,8 @@
 - 제 4대 빅데이터 학생회 'Ra-On' 대외부장
 - 학술동아리 'Multiplex' 회장
 - 학술동아리 'Multiplex' 1학기 Python 멘토링 멘티 참여
-- 학술동아리 'Multiplex' 하계 AI 멘토링 멘티 참여
+- 학술동아리 'Multiplex' 하계 방학 딥러닝 멘토링 멘티 참여
+- 학술동아리 'Multiplex' 하계 방학 Unity 멘토링 멘티 참여
 - 학술동아리 'Multiplex' 소프트웨어융합대학 체육대회 풋살 준우승🥈
 - SW중심대학사업단 SW Week [기초 대회(완내스 파이썬)] 참여
 - 교내 학술제 - 서공제 'Multiplex' 본선 진출
