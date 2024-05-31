@@ -19,7 +19,7 @@
 - **GitHub_Adress** : https://github.com/namgungcold
 
 
-# 🖊교내활동 및 수상경력
+# 🏫교내활동 및 수상경력
 ## 2019
 - 학술동아리 'Multiplex' 부원
 - 학술동아리 'Multiplex' 하계 Java 멘토링 멘티 참여
@@ -67,7 +67,7 @@
 - 프롬프트/LLM부트캠프 4위
 - kaggle에 도전하기
 
-## 사용가능한 기술스택
+## 👨‍💻사용가능한 기술스택
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
@@ -80,6 +80,18 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </p>
 
+## 📖주요 수강과목
+- 인공지능
+- 영상처리와 딥러닝
+- 머신러닝
+- 텍스트 정보처리
+- 알고리즘
+- 파이썬 AI프로그래밍 
+- 강화학습
+- 파이썬 과학프로그래밍 기초
+- 선형대수
+- 인공지능수학
+- 
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
