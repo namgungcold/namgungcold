@@ -89,7 +89,9 @@
 </p>
 </details>
 
-## 📖주요 수강과목
+<details>
+  <summary><h2>📖주요 수강과목</h2></summary>
+    
 - 인공지능
 - 영상처리와 딥러닝
 - 머신러닝
@@ -100,7 +102,8 @@
 - 파이썬 과학프로그래밍 기초
 - 선형대수
 - 인공지능수학
-- 
+</details>
+      
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
