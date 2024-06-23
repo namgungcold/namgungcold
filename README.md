@@ -107,6 +107,7 @@
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
-
+- [`강화학습`](https://github.com/Reinforcement-Learning-Team-H) 2024년 1학기 강화학습 프로젝트
+  
 ![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungcold&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgungcold&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
