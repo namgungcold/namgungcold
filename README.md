@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요😀 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발자를 꿈꾸는는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있는 취준생입니다.<li> 관심분야: LLM, 자연어처리</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발자를 꿈꾸는는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있는 취준생입니다.</div> 
     </div>
     
     
@@ -14,7 +14,8 @@
 - **소속** : <br>
   - 대학 : 한림대학교 정보과학대학 소프트웨어학부<br>
   - 전공 : 빅데이터 전공 <br>
-  - 부전공 : 컨텐츠 IT 전공 <br>
+  - 부전공 : 콘텐츠 IT 전공 <br>
+  - 관심분야: LLM, 자연어처리 <br>
 - **Email** : cksdl816@naver.com
 - **GitHub_Adress** : https://github.com/namgungcold
 
