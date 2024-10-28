@@ -20,15 +20,13 @@
 - **GitHub_Adress** : https://github.com/namgungcold
 
 
-<details>
-  <summary><h2>🏫교내활동 및 수상경력</h2></summary>
-    
+<h2>🏫교내활동 및 수상경력</h2>
 ## 2019
 - 학술동아리 'Multiplex' 부원
 - 학술동아리 'Multiplex' 하계 Java 멘토링 멘티 참여
 - 축구동아리 'Defy' 부원
 - 축구동아리 'Defy' 소프트웨어융합대학 체육대회 축구 준중
-</details>
+
 
 <details>
   <summary><h2>👨‍💻사용가능한 기술스택</h2></summary>
