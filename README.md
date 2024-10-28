@@ -52,10 +52,9 @@
 - 학술동아리 'Multiplex' 부회장
 - Link-3.0 캡스톤 경진대회 참여
 - 'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
-</details>
 
-<details>
-  <summary><h2>🏆교외활동 및 수상경력</h2></summary>
+
+<h2>🏆교외활동 및 수상경력</h2>
     
 ## 2020
 - 2020.03.24 ~ 2021.09.29 7사단 3여단 1대대 보병
@@ -73,8 +72,8 @@
 - kaggle에 도전하기
 
 
-<details>
-  <summary><h2>👨‍💻사용가능한 기술스택</h2></summary>
+
+<h2>👨‍💻사용가능한 기술스택</h2>
     
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
@@ -87,10 +86,9 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </p>
-</details>
 
-<details>
-  <summary><h2>📖주요 수강과목</h2></summary>
+
+<h2>📖주요 수강과목</h2>
     
 - 인공지능
 - 영상처리와 딥러닝
@@ -102,7 +100,7 @@
 - 파이썬 과학프로그래밍 기초
 - 선형대수
 - 인공지능수학
-</details>
+
       
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
