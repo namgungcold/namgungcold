@@ -20,6 +20,20 @@
 - **GitHub_Adress** : https://github.com/namgungcold
 
 <br></br>
+<h2>👨‍💻사용가능한 기술스택</h2>
+    
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+</p>
+<br></br>
 <h2>🏫교내활동 및 수상경력</h2>
 
 ## 2019
@@ -53,7 +67,7 @@
 - Link-3.0 캡스톤 경진대회 참여
 - 'Nvidia Jetson Edge GPU를 이용한 인공지능 개발 특강' 참여
 
-
+<br></br>
 <h2>🏆교외활동 및 수상경력</h2>
     
 ## 2020
@@ -70,24 +84,11 @@
 ## 2024
 - 프롬프트/LLM부트캠프 4위
 - kaggle에 도전하기
+- MS AI School 5기 참여 중(2024.09.02 ~ 2025.02.28)
 
 
 
-<h2>👨‍💻사용가능한 기술스택</h2>
-    
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-</p>
-
-
+<br></br>
 <h2>📖주요 수강과목</h2>
     
 - 인공지능
@@ -101,7 +102,7 @@
 - 선형대수
 - 인공지능수학
 
-      
+<br></br>      
 ## 주요 프로젝트
 - [`부트캠프`](https://github.com/namgungcold/LLM-Bootcamp-project_4) 2024년 하계 프롬프트/LLM 부트캠프 
 - [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼
