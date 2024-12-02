@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요😀 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발자를 꿈꾸는는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있는 취준생입니다.</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 인공지능 개발자를 꿈꾸는 빅데이터 전공생입니다.</li><li> 졸업을 앞두고 있는 취준생입니다.</div> 
     </div>
     
     
